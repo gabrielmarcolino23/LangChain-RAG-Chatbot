@@ -30,6 +30,7 @@ Pergunta:
 Resposta:
 """
 )
+# Já dei commit!
 
 def main():
     st.set_page_config(page_title="💬 Chat-oppem", page_icon="🤖")
